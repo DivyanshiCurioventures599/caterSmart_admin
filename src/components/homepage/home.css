@@ -1,0 +1,51 @@
+.App{
+  width: 100VW;
+  /* height: 100%; */
+  display: flex;
+  float: left;
+  position: absolute;
+  overflow-x: hidden;
+}
+.sidebar{
+  width: 25%;
+  height: 100%;
+  background-color: #292626;
+  border-radius: 10px 0px 0px 10px;
+  overflow-x: hidden;
+}
+.ordersummarymain-col{
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  overflow-x: hidden;
+ 
+}
+
+.menubar1{
+  position: relative;
+  width: 100%;
+  height: 10%;
+  background-color: orchid;
+  overflow-x: hidden;
+}
+
+.containercard{
+  
+  width: 100%;
+  height: 100%;
+  background-color:  #E5E5E5;
+  overflow-x: hidden;
+}
+.orderlistbtn{
+  width: 100%;
+  height: 15%;
+  background-color: #E5E5E5;
+  overflow-x: hidden;
+}
+.allcard{
+  width: 100%;
+  height: 100%;
+  background-color: #E5E5E5;
+  overflow-x: hidden;
+
+}
