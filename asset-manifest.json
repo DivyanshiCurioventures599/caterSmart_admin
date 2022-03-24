@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catersmart_admin/static/css/main.4322b23e.css",
+    "main.js": "/catersmart_admin/static/js/main.e338b415.js",
+    "static/media/food2.png": "/catersmart_admin/static/media/food2.4b90bfb9073eb66a0fe3.png",
+    "static/media/food1.png": "/catersmart_admin/static/media/food1.1ebd15d1966f77424afd.png",
+    "index.html": "/catersmart_admin/index.html",
+    "main.4322b23e.css.map": "/catersmart_admin/static/css/main.4322b23e.css.map",
+    "main.e338b415.js.map": "/catersmart_admin/static/js/main.e338b415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4322b23e.css",
+    "static/js/main.e338b415.js"
+  ]
+}
